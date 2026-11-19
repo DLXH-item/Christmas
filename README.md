@@ -24,7 +24,7 @@ python christmas.py
 
 IDE 里运行：PyCharm / IDEA 新建项目，把 `christmas.py` 放进项目，解释器选 `python.exe`，右键 `Run` 即可。
 
-## 操作说明
+## 操作说明（要用英文键盘）
 
 | 操作 | 功能 |
 | --- | --- |
